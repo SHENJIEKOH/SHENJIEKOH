@@ -1,6 +1,7 @@
 <h1 align="center">Hello everyone👋, I'm Shen Jie</h1>
 <h3 align="center">A Newbie Robotics Student</h3>
 
+- 🔭 I’m currently studying **Electrical Engineering**
 - 🌱 I’m currently learning **Python, Robotics, Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
