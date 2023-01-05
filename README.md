@@ -6,6 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ <a href="https://www.facebook.com/shenjie.koh.425" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shen jie koh" height="30" width="40" /></a>
 <a href="https://instagram.com/shenjie0425" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shenjie0425" height="30" width="40" /></a>
 </p>
 
