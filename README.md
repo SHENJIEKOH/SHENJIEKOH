@@ -7,6 +7,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shenjiekoh&show_icons=true&locale=en" alt="shenjiekoh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shenjiekoh&" alt="shenjiekoh" /></p>
+<p><img align="center" src="https://leetcard.jacoblin.cool/shenjiekoh?theme=light&ext=heatmap" alt="shenjiekoh" /></p>
+
 
 
 
