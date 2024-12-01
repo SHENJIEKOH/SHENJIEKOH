@@ -11,8 +11,8 @@
 -->
 
 <p>
-  <img align="center" src="https://leetcard.jacoblin.cool/shenjiekoh?theme=dark&ext=heatmap" alt="shenjiekoh" style="display: inline-block;" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shenjiekoh&show_icons=true&locale=en&layout=compact" alt="shenjiekoh" height="200" style="display: inline-block;" />
+  <img align="center" src="https://leetcard.jacoblin.cool/shenjiekoh?theme=dark&ext=heatmap" alt="shenjiekoh" width="400" style="display: inline-block;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shenjiekoh&show_icons=true&locale=en&layout=compact" alt="shenjiekoh" width="300" style="display: inline-block;" />
 </p>
 
 
