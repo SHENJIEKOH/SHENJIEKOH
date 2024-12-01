@@ -12,7 +12,7 @@
 
 <p style="text-align: center;">
   <img align="center" src="https://leetcard.jacoblin.cool/shenjiekoh?theme=dark&ext=heatmap" alt="shenjiekoh" width="500" style="display: inline-block;" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shenjiekoh&show_icons=true&locale=en&layout=compact" alt="shenjiekoh" width="300" style="display: inline-block;" />
 </p>
 
